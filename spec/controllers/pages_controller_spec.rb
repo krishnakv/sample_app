@@ -29,6 +29,7 @@ describe PagesController do
       response.should have_selector("title",
                                     :content => "Contact")
     end
+    
   end
 
   describe "GET 'about'" do
