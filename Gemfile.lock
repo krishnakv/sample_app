@@ -86,6 +86,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  nokogiri
   rails (= 3.0.1)
   rspec
   rspec-rails
